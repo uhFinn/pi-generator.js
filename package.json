@@ -1,6 +1,6 @@
 {
   "name": "pi-generator.js",
-  "version": "1.2.0",
+  "version": "1.2.5",
   "description": "Generate Infinite Digits Of Pi!",
   "main": "server.js",
   "scripts": {
@@ -21,5 +21,9 @@
     "easy"
   ],
   "author": "Finn Scully",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uhFinn/pi-generator.js"
+  }
 }
