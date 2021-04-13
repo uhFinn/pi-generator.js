@@ -1,0 +1,25 @@
+{
+  "name": "pi-generator.js",
+  "version": "1.2.0",
+  "description": "Generate Infinite Digits Of Pi!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pi",
+    "pie",
+    "generate",
+    "generator",
+    "utility",
+    "tool",
+    "useful",
+    "fun",
+    "maths",
+    "math",
+    "easy"
+  ],
+  "author": "Finn Scully",
+  "license": "ISC"
+}
